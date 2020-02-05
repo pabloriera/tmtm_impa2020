@@ -16,7 +16,7 @@ For running localy
 
 ```
 pip install -r requeriments.txt
-jupyter-notebook
+jupyter notebook
 ```
 
 
