@@ -1,0 +1,10 @@
+matplotlib
+SoundFile
+pandas
+librosa
+midi2audio
+scipy
+numpy
+music21
+ipython
+jupyter

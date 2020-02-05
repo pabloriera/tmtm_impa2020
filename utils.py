@@ -6,7 +6,6 @@ import fractions
 import librosa
 import librosa.display
 import json
-import peakutils
 import base64
 import pandas as pd
 import matplotlib as mpl
