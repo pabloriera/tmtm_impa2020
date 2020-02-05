@@ -10,4 +10,13 @@
 ### Rio de Janeiro - 5 do fevereiro 2020
 ### Instituto de Matemática Pura e Aplicada
 
+https://pabloriera.github.io/tmtm_impa2020/
+
+For running localy
+
+```
+pip install -r requeriments.txt
+jupyter-notebook
+```
+
 
